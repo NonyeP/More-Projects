@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.cbfacademy.CollectionsExercisesTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.062 s - in com.cbfacademy.CollectionsExercisesTest
+com.cbfacademy.CollectionsExercisesTest.workingWithMaps  Time elapsed: 0.03 s
+com.cbfacademy.CollectionsExercisesTest.returnUnitName  Time elapsed: 0.001 s
+com.cbfacademy.CollectionsExercisesTest.workingWithQueues  Time elapsed: 0.001 s
+com.cbfacademy.CollectionsExercisesTest.workingWithStacks  Time elapsed: 0.002 s
+com.cbfacademy.CollectionsExercisesTest.workWithLinkedLists  Time elapsed: 0.003 s
