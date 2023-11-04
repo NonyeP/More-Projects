@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: com.cbfacademy.FlowControlExercisesTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.14 s - in com.cbfacademy.FlowControlExercisesTest
+com.cbfacademy.FlowControlExercisesTest.returnUnitName  Time elapsed: 0.034 s
+com.cbfacademy.FlowControlExercisesTest.months(Integer, String)[1]  Time elapsed: 0.022 s
+com.cbfacademy.FlowControlExercisesTest.months(Integer, String)[2]  Time elapsed: 0.001 s
+com.cbfacademy.FlowControlExercisesTest.months(Integer, String)[3]  Time elapsed: 0.001 s
+com.cbfacademy.FlowControlExercisesTest.months(Integer, String)[4]  Time elapsed: 0.001 s
+com.cbfacademy.FlowControlExercisesTest.oddAndEvenNumbers  Time elapsed: 0.005 s
+com.cbfacademy.FlowControlExercisesTest.fizzBuzz(List, List)[1]  Time elapsed: 0.003 s
+com.cbfacademy.FlowControlExercisesTest.fizzBuzz(List, List)[2]  Time elapsed: 0.001 s
+com.cbfacademy.FlowControlExercisesTest.fizzBuzz(List, List)[3]  Time elapsed: 0.001 s
+com.cbfacademy.FlowControlExercisesTest.fizzBuzz(List, List)[4]  Time elapsed: 0.001 s
+com.cbfacademy.FlowControlExercisesTest.reverseOrder(ArrayList, List)[1]  Time elapsed: 0.003 s
+com.cbfacademy.FlowControlExercisesTest.reverseOrder(ArrayList, List)[2]  Time elapsed: 0.001 s
+com.cbfacademy.FlowControlExercisesTest.reverseOrder(ArrayList, List)[3]  Time elapsed: 0.001 s
+com.cbfacademy.FlowControlExercisesTest.reverseOrder(ArrayList, List)[4]  Time elapsed: 0.001 s
