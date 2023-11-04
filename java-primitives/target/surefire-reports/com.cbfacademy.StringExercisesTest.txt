@@ -1,0 +1,25 @@
+-------------------------------------------------------------------------------
+Test set: com.cbfacademy.StringExercisesTest
+-------------------------------------------------------------------------------
+Tests run: 21, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.173 s - in com.cbfacademy.StringExercisesTest
+com.cbfacademy.StringExercisesTest.returnExerciseName  Time elapsed: 0.032 s
+com.cbfacademy.StringExercisesTest.isPalindrome(String, Boolean)[1]  Time elapsed: 0.026 s
+com.cbfacademy.StringExercisesTest.isPalindrome(String, Boolean)[2]  Time elapsed: 0.001 s
+com.cbfacademy.StringExercisesTest.isPalindrome(String, Boolean)[3]  Time elapsed: 0.001 s
+com.cbfacademy.StringExercisesTest.isPalindrome(String, Boolean)[4]  Time elapsed: 0.002 s
+com.cbfacademy.StringExercisesTest.isPalindrome(String, Boolean)[5]  Time elapsed: 0.001 s
+com.cbfacademy.StringExercisesTest.isPalindrome(String, Boolean)[6]  Time elapsed: 0.001 s
+com.cbfacademy.StringExercisesTest.isPalindrome(String, Boolean)[7]  Time elapsed: 0.001 s
+com.cbfacademy.StringExercisesTest.isPalindrome(String, Boolean)[8]  Time elapsed: 0.001 s
+com.cbfacademy.StringExercisesTest.isPalindrome(String, Boolean)[9]  Time elapsed: 0.002 s
+com.cbfacademy.StringExercisesTest.isPalindrome(String, Boolean)[10]  Time elapsed: 0.001 s
+com.cbfacademy.StringExercisesTest.isPalindrome(String, Boolean)[11]  Time elapsed: 0.002 s
+com.cbfacademy.StringExercisesTest.isPalindrome(String, Boolean)[12]  Time elapsed: 0.001 s
+com.cbfacademy.StringExercisesTest.isPalindrome(String, Boolean)[13]  Time elapsed: 0.001 s
+com.cbfacademy.StringExercisesTest.stringsFromCharacters(char[], String)[1]  Time elapsed: 0.003 s
+com.cbfacademy.StringExercisesTest.stringsFromCharacters(char[], String)[2]  Time elapsed: 0.001 s
+com.cbfacademy.StringExercisesTest.stringsFromCharacters(char[], String)[3]  Time elapsed: 0.003 s
+com.cbfacademy.StringExercisesTest.stringsFromCharacters(char[], String)[4]  Time elapsed: 0.001 s
+com.cbfacademy.StringExercisesTest.stringsFromCharacters(char[], String)[5]  Time elapsed: 0.001 s
+com.cbfacademy.StringExercisesTest.howMany(String, Character, Long)[1]  Time elapsed: 0.009 s
+com.cbfacademy.StringExercisesTest.howMany(String, Character, Long)[2]  Time elapsed: 0.001 s
